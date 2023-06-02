@@ -1,2 +1,4 @@
-# practise_website
-Made my 1st (practice)website(pure HTML) about my younger brother.Do mail/contact me(using the contact details that are mentioned in the website)- if you have any suggessions/queries.
+# 1 practise_website
+Made my 1st (practice)website(pure HTML) about my younger brother.
+# 2 porfolio
+used HTML and basic CSS to create my portfolio.
